@@ -1,4 +1,3 @@
-Module 3 Assignment
 Sub Stockanalysis()
 
 Dim ws As Worksheet
